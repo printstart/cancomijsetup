@@ -94,7 +94,7 @@ Once you download the setup from ij.start.canon on your laptop or PC, double cli
 .. image:: Canon-printer-setup.png
     :width: 500px
     :align: center
-    :height: 200px
+    :height: 300px
     :alt: ij.start.canon
     :target: https://can-ijsetup.readthedocs.io/en/latest/index.html
     
