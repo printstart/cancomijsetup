@@ -28,7 +28,7 @@ Where is my Canon printer model number?
     :align: center
     :height: 100px
     :alt: alternate text
-    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    :target: https://can-ijsetup.readthedocs.io/en/latest/index.html
     
 |
 
@@ -96,7 +96,7 @@ Once you download the setup from ij.start.canon on your laptop or PC, double cli
     :align: center
     :height: 100px
     :alt: alternate text
-    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    :target: https://can-ijsetup.readthedocs.io/en/latest/index.html
     
 |
 
