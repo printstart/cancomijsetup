@@ -7,7 +7,7 @@ ij.start canon is the manufacturer site to download Canon printer drivers. Insta
 
 |
 
-.. image:: stars.jpg
+.. image:: get-started-button.png
     :width: 300px
     :align: center
     :height: 100px
