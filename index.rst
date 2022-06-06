@@ -21,7 +21,16 @@ ij.start canon is the manufacturer site to download Canon printer drivers. Insta
 Where is my Canon printer model number?
 *************
 
-Screenshot 5
+|
+
+.. image:: stars.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    
+|
 
 Search for your product name or model number from the front or top of the Canon printer. The location may vary.
 
@@ -80,7 +89,16 @@ Step 6 – Start the printer software installation
 
 Once you download the setup from ij.start.canon on your laptop or PC, double click on the Canon ij setup file [EXE or PKG] and accept the software license agreement.
 
-Screenshot 6
+|
+
+.. image:: stars.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    
+|
 
 ===========
 Step 7 – Select a connection type to continue
