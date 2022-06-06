@@ -23,7 +23,7 @@ Where is my Canon printer model number?
 
 |
 
-.. image:: stars.jpg
+.. image:: Canon-printer.png
     :width: 200px
     :align: center
     :height: 100px
