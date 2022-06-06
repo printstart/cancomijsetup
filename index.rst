@@ -24,7 +24,7 @@ Where is my Canon printer model number?
 |
 
 .. image:: Canon-printer.png
-    :width: 200px
+    :width: 500px
     :align: center
     :height: 100px
     :alt: ij.start.canon
@@ -92,7 +92,7 @@ Once you download the setup from ij.start.canon on your laptop or PC, double cli
 |
 
 .. image:: Canon-printer-setup.png
-    :width: 200px
+    :width: 500px
     :align: center
     :height: 100px
     :alt: ij.start.canon
