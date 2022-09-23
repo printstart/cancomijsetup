@@ -82,7 +82,7 @@ Step 5 – Connect Ij printer to a wireless connection
 ===========
 
 Use Wireless LAN Setup or WPS Push Button method to connect your printer with a network connection. You will require a wireless router as well.
-
+  
 ===========
 Step 6 – Start the printer software installation
 ===========
